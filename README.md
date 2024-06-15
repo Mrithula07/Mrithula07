@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrithula07
 - 👀 I’m interested in the current cutting edge Technology which can make an impact with our innovative minds..
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on any small project using c or c++ as I am currently learning this language.
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on any ML project.
 - 📫 How to reach me mrithula04@gmail.com 
 
 <!---
