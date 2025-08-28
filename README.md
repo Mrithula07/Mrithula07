@@ -26,7 +26,7 @@ I love building scalable applications, exploring cutting-edge tech, and solving 
 `MongoDB` `MySQL` `Prisma`
 
 **Other Tools:**  
-`JWT` `Swagger` `Docker` `Git` `Render` `Vercel`  
+`JWT` `Swagger` `Git` `Render` `Vercel`  
 
 ---
 
