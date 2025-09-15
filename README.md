@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Mrithulasree Nainar  
 
-🎓 Final-year B.Tech Electronics and Computer Engineering student | 💻 Aspiring Software Engineer | 🚀 AI & Blockchain Enthusiast  
+🎓 Final-year B.Tech Electronics and Computer Engineering student  
+💻 Aspiring Software Engineer | 🚀 AI & Blockchain Enthusiast  
 
-Welcome to my GitHub profile!  
-I love building scalable applications, exploring cutting-edge tech, and solving real-world problems with code.  
+Welcome to my GitHub!  
+I love building things that make life easier — whether it’s a finance tracker, an AI tool, or a blockchain project.  
+Most days, you’ll find me coding with a cup of hot chocolate by my side, exploring new ideas and turning them into real projects.  
 
 ---
 
