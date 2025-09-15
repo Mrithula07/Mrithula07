@@ -32,6 +32,9 @@ I love building scalable applications, exploring cutting-edge tech, and solving 
 
 ## 🚀 Featured Projects  
 
+### 🔹 [Wealth – Personal Finance Tracker](https://github.com/Mrithula07/Wealth)  
+Full-stack Next.js + Prisma + PostgreSQL app with Arcjet protection, Inngest workflows, AI-powered receipt scanning, and interactive dashboards for secure personal finance management.  
+
 ### 🔹 [Subscription Management System API](https://github.com/Mrithula07/subscription-management-api)  
 Node.js + Express.js backend with JWT auth, Upstash QStash automation, and Arcjet rate limiting.  
 
